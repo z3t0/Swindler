@@ -5,6 +5,7 @@ cache:
 
 xcode_workspace: Swindler.xcworkspace
 xcode_scheme: Swindler
+script: xctool -workspace Swindler.xcworkspace -scheme Swindler -sdk macosx10.11 test
 
 osx_image: xcode7.2
 xcode_sdk: macosx10.11
