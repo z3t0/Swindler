@@ -43,13 +43,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		2F86CED21BD60117007E8C29 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 2F86CEBD1BD60117007E8C29 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 2F86CEC51BD60117007E8C29;
-			remoteInfo = Swindler;
-		};
 		2FEEA2C61C1E0A8C00CD515E /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 2F86CEBD1BD60117007E8C29 /* Project object */;
@@ -330,7 +323,6 @@
 			buildRules = (
 			);
 			dependencies = (
-				2F86CED31BD60117007E8C29 /* PBXTargetDependency */,
 			);
 			name = SwindlerTests;
 			productName = SwindlerTests;
@@ -630,11 +622,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		2F86CED31BD60117007E8C29 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 2F86CEC51BD60117007E8C29 /* Swindler */;
-			targetProxy = 2F86CED21BD60117007E8C29 /* PBXContainerItemProxy */;
-		};
 		2FEEA2C71C1E0A8C00CD515E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 2F86CEC51BD60117007E8C29 /* Swindler */;
