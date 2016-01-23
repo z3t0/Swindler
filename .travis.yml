@@ -1,7 +1,7 @@
 language: objective-c
 cache:
-  bundler: true
-  cocoapods: true
+  directories:
+  - Pods
 
 xcode_workspace: Swindler.xcworkspace
 xcode_scheme: Swindler
