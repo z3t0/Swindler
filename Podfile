@@ -8,12 +8,6 @@ def testing_pods
 end
 
 xcodeproj 'Swindler'
-target 'SwindlerTests' do
-  testing_pods
-end
-target 'SwindlerTestsProfile' do
-  testing_pods
-end
 
 target 'Swindler' do
   pod 'PromiseKit/CorePromise', '~> 3.0.0'

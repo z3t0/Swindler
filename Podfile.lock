@@ -1,16 +1,12 @@
 PODS:
-  - Nimble (3.0.0)
   - PromiseKit/CorePromise (3.0.2)
-  - Quick (0.8.0)
 
 DEPENDENCIES:
-  - Nimble (~> 3.0.0)
   - PromiseKit/CorePromise (~> 3.0.0)
-  - Quick (~> 0.8.0)
 
 SPEC CHECKSUMS:
-  Nimble: 4c353d43735b38b545cbb4cb91504588eb5de926
   PromiseKit: ab1a380f7a30cf8cce663a2411e8b3580b10313d
-  Quick: 563d0f6ec5f72e394645adb377708639b7dd38ab
 
-COCOAPODS: 0.39.0
+PODFILE CHECKSUM: e2c8c786d463331d77089e4ad2d14d3aecbad64d
+
+COCOAPODS: 1.1.1
